@@ -23,7 +23,7 @@ This is for Electronics Engineering First year Subject related study materials
 
 
 ## Tutorials/Assignments
-* [Tutorial-01](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQCqy0lAzShASqZdLkUHXnRAAbJBiy3N0TTWigF0fcJ1it4)
-* [Tutorial-02](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQBElJpRnagFTKKGzqLeLtBtAaBm0Rx67UsXULpW0a6qqdU)
-* [Tutorial-03](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQBof9U5boTwRItLUePFUu_xAd_8VT7ptxPnsh_0y7tbEic)
-* [Tutorial-04](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQAk6-jkXoJPQZFNzR6QQoGKAUnY6EreE03gDZNMi_9r_2s)
+* [Tutorial/Assignment-01](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQCqy0lAzShASqZdLkUHXnRAAbJBiy3N0TTWigF0fcJ1it4)
+* [Tutorial/Assignment-02](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQBElJpRnagFTKKGzqLeLtBtAaBm0Rx67UsXULpW0a6qqdU)
+* [Tutorial/Assignment-03](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQBof9U5boTwRItLUePFUu_xAd_8VT7ptxPnsh_0y7tbEic)
+* [Tutorial/Assignment-04](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQAk6-jkXoJPQZFNzR6QQoGKAUnY6EreE03gDZNMi_9r_2s)
