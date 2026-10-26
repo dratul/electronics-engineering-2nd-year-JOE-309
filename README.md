@@ -2,7 +2,7 @@
 This is for Electronics Engineering First year Subject related study materials
 
 ## Syllabus
-[Click here](syll_BOE_309.pdf)
+[Click here](JOE_309_Syllabus.md)
 
 ## Videos lectures and Notes
 [Click to see](https://docs.google.com/document/d/1RtcY2vmKSOJgMpbbOF4eW88gAfgN6zxu4g9YWIx2kTw/edit?usp=sharin)
