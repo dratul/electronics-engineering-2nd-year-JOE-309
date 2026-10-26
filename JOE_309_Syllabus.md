@@ -1,6 +1,6 @@
 # Electronics Engineering
 
-**Course Codes:** BOE309 / BOE409 / BOE309H / BOE409H
+**Course Codes:** JOE309 / JOE409 / JOE309H / JOE409H
 
 ---
 
