@@ -1,8 +1,8 @@
-# Electronics-Engineering
+# Electronics-Engineering JOE 309 
 This is for Electronics Engineering First year Subject related study materials
 
 ## Syllabus
-[Click here](https://github.com/dratul/Electronics-Engineering-BEC-201-/blob/main/Syll.pdf) 
+[Click here](syll_BOE_309.pdf)
 
 ## Videos lectures and Notes
 [Click to see](https://docs.google.com/document/d/1RtcY2vmKSOJgMpbbOF4eW88gAfgN6zxu4g9YWIx2kTw/edit?usp=sharin)
