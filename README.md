@@ -1,7 +1,10 @@
-# Electronics-Engineering JOE 309 
-This is for Electronics Engineering First year Subject related study materials
+# Electronics-Engineering JOE 309
+Study materials for second-year Electronics Engineering students.
 
-## [Syllabus ](JOE_309_Syllabus.md)
+## [Syllabus](JOE_309_Syllabus.md)
+
+## Unit-wise study material
+- [Unit-01: Semiconductor Diode](Unit-01.md)
 
 ## Videos lectures and Notes
 [Click to see](https://docs.google.com/document/d/1RtcY2vmKSOJgMpbbOF4eW88gAfgN6zxu4g9YWIx2kTw/edit?usp=sharin)
