@@ -309,3 +309,10 @@ Choose a Zener with a power rating comfortably above $81\ \text{mW}$ and a resis
 - Keep static resistance $V_D/I_D$ separate from small-signal resistance $\eta V_T/I_D$.
 - For each diode circuit problem, state the chosen model and verify the assumed ON/OFF state.
 - Remember that approximate silicon and germanium forward drops are model values, not universal constants.
+
+## Further study
+
+- [OpenStax University Physics, Section 9.6: Semiconductors and Doping](https://openstax.org/books/university-physics-volume-3/pages/9-6-semiconductors-and-doping) — semiconductor doping and carrier types.
+- [OpenStax University Physics, Section 9.7: Semiconductor Devices](https://openstax.org/books/university-physics-volume-3/pages/9-7-semiconductor-devices) — PN junction formation, forward/reverse bias, and diode behavior.
+- [MIT OpenCourseWare 6.012 lecture notes](https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2009/pages/lecture-notes/) — semiconductor and PN-junction lectures.
+- Boylestad and Nashelsky, *Electronic Devices and Circuit Theory* (listed in the course syllabus).

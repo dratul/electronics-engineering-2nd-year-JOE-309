@@ -5,6 +5,10 @@ Study materials for second-year Electronics Engineering students.
 
 ## Unit-wise study material
 - [Unit-01: Semiconductor Diode](Unit-01.md)
+- [Unit-02: Diode Applications and Special-Purpose Devices](Unit-02.md)
+- [Unit-03: BJT and FET](Unit-03.md)
+- [Unit-04: Operational Amplifiers](Unit-04.md)
+- [Unit-05: Electronic Instrumentation and Measurements](Unit-05.md)
 
 ## Videos lectures and Notes
 [Click to see](https://docs.google.com/document/d/1RtcY2vmKSOJgMpbbOF4eW88gAfgN6zxu4g9YWIx2kTw/edit?usp=sharin)
