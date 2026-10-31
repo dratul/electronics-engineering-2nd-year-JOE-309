@@ -176,7 +176,104 @@ The terms describe dominant mechanisms; both can contribute near a device's brea
 | Depletion region | Narrower | Wider |
 | Typical breakdown voltage | Lower | Higher |
 
-## 9. Formula and concept review
+## 9. Worked numerical examples
+
+### Example 1: Diode current from the Shockley equation
+
+At room temperature, estimate the current for a diode with $I_S=2\ \text{nA}$, $\eta=2$, and $V_D=0.60\ \text{V}$. Ignore series resistance.
+
+Using $V_T=25.9\ \text{mV}$:
+
+$$
+\begin{aligned}
+I_D &= I_S\left(e^{V_D/(\eta V_T)}-1\right)\\
+&=2\times10^{-9}\left(e^{0.60/(2\times0.0259)}-1\right)\\
+&\approx 0.214\ \text{mA}
+\end{aligned}
+$$
+
+The exponential model predicts a current of approximately $214\ \mu\text{A}$. A real circuit's series resistance and source impedance may change the actual current.
+
+### Example 2: DC and small-signal resistance
+
+A diode is biased at $V_D=0.62\ \text{V}$ and $I_D=4.0\ \text{mA}$. Find its DC resistance and estimate its small-signal resistance at room temperature, assuming $\eta=1$.
+
+$$
+R_D=\frac{V_D}{I_D}=\frac{0.62}{0.004}=155\ \Omega
+$$
+
+$$
+r_d\approx\frac{\eta V_T}{I_D}
+=\frac{25.9\ \text{mV}}{4.0\ \text{mA}}
+\approx6.48\ \Omega
+$$
+
+The values differ because $R_D$ is the voltage-to-current ratio at the operating point, while $r_d$ is the local small-signal slope.
+
+### Example 3: Estimate transition capacitance
+
+Approximate a reverse-biased silicon junction as a parallel-plate capacitor. Let $\epsilon_r=11.7$, junction area $A=1.0\ \text{mm}^2$, and depletion width $W=2.0\ \mu\text{m}$. Use $\epsilon_0=8.854\times10^{-12}\ \text{F/m}$.
+
+Convert the dimensions:
+
+$$
+A=1.0\times10^{-6}\ \text{m}^2,\qquad
+W=2.0\times10^{-6}\ \text{m}
+$$
+
+Then:
+
+$$
+\begin{aligned}
+C_T&\approx\frac{\epsilon_r\epsilon_0 A}{W}\\
+&=\frac{(11.7)(8.854\times10^{-12})(1.0\times10^{-6})}
+{2.0\times10^{-6}}\\
+&\approx 5.18\times10^{-11}\ \text{F}
+=51.8\ \text{pF}
+\end{aligned}
+$$
+
+This is an idealized estimate; an actual junction's geometry and doping profile affect its capacitance.
+
+### Example 4: Zener shunt regulator with a load
+
+A $12\ \text{V}$ supply feeds a $5.1\ \text{V}$ Zener regulator through $R_S=330\ \Omega$. The load is $R_L=1.0\ \text{k}\Omega$. Assuming the Zener holds $V_Z=5.1\ \text{V}$, calculate the load current, series current, Zener current, and Zener power. Check that the Zener current is at least $5\ \text{mA}$ for regulation.
+
+Load current:
+
+$$
+I_L=\frac{V_Z}{R_L}=\frac{5.1}{1000}=5.1\ \text{mA}
+$$
+
+Current through the series resistor:
+
+$$
+I_S=\frac{V_S-V_Z}{R_S}
+=\frac{12-5.1}{330}
+\approx20.9\ \text{mA}
+$$
+
+By Kirchhoff's current law, the remaining current flows through the Zener:
+
+$$
+I_Z=I_S-I_L=20.9-5.1=15.8\ \text{mA}
+$$
+
+Since $15.8\ \text{mA}>5\ \text{mA}$, the stated minimum-current condition is met. Zener power is:
+
+$$
+P_Z=V_ZI_Z=(5.1)(0.0158)\approx0.081\ \text{W}
+$$
+
+The series resistor also dissipates power:
+
+$$
+P_{R_S}=(V_S-V_Z)I_S=(6.9)(0.0209)\approx0.144\ \text{W}
+$$
+
+Choose a Zener with a power rating comfortably above $81\ \text{mW}$ and a resistor rated above $0.144\ \text{W}$ (for example, $0.25\ \text{W}$ with appropriate derating). Also check the Zener's maximum current and worst-case component tolerances in a real design.
+
+## 10. Formula and concept review
 
 | Quantity | Relation or key idea |
 |---|---|
@@ -187,7 +284,7 @@ The terms describe dominant mechanisms; both can contribute near a device's brea
 | Transition capacitance | $C_T\approx\epsilon A/W$; usually decreases as reverse bias increases |
 | Diffusion capacitance | $C_D=dQ/dV_D$; associated with stored injected charge in forward bias |
 
-## 10. Self-test questions
+## 11. Self-test questions
 
 1. What distinguishes intrinsic from extrinsic semiconductor material?
 2. Identify the majority and minority carriers in N-type and P-type material.
