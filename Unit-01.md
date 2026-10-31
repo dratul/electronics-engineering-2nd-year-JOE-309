@@ -40,7 +40,7 @@ This carrier-depleted area is called the **depletion region** or **depletion lay
 
 ## 3. Biasing and V-I characteristics
 
-Let \(V_D\) be the voltage from the diode anode (P side) to cathode (N side), and let \(I_D\) be positive in the forward direction.
+Let $V_D$ be the voltage from the diode anode (P side) to cathode (N side), and let $I_D$ be positive in the forward direction.
 
 ### Forward bias
 
@@ -58,11 +58,11 @@ Connect the P side to the more negative supply terminal and the N side to the mo
 
 The idealized diode current-voltage relation is the Shockley equation:
 
-\[
+$$
 I_D = I_S\left(e^{V_D/(\eta V_T)}-1\right)
-\]
+$$
 
-where \(I_S\) is the reverse saturation current, \(\eta\) is the ideality factor (typically between 1 and 2), and \(V_T=kT/q\) is the thermal voltage. At room temperature, \(V_T\) is approximately 25.9 mV. The equation is a useful model, but real devices have limits such as series resistance and breakdown.
+where $I_S$ is the reverse saturation current, $\eta$ is the ideality factor (typically between 1 and 2), and $V_T=kT/q$ is the thermal voltage. At room temperature, $V_T$ is approximately 25.9 mV. The equation is a useful model, but real devices have limits such as series resistance and breakdown.
 
 ## 4. Ideal and practical diode models
 
@@ -71,10 +71,10 @@ The model chosen depends on the accuracy needed for the circuit analysis.
 | Model | Forward-biased approximation | Reverse-biased approximation |
 |---|---|---|
 | Ideal | Short circuit; zero voltage drop | Open circuit; zero current |
-| Constant-voltage-drop | Fixed drop \(V_\gamma\), often about 0.7 V for silicon | Open circuit |
-| Piecewise-linear | \(V_\gamma\) in series with a small resistance \(r_d\) | Open circuit, below breakdown |
+| Constant-voltage-drop | Fixed drop $V_\gamma$, often about 0.7 V for silicon | Open circuit |
+| Piecewise-linear | $V_\gamma$ in series with a small resistance $r_d$ | Open circuit, below breakdown |
 
-An ideal diode is a mathematical simplification. A practical diode has a nonzero forward voltage, finite resistance, and a small reverse leakage current. The constant-voltage model is often sufficient for hand analysis; include \(r_d\) when the change in voltage with current matters.
+An ideal diode is a mathematical simplification. A practical diode has a nonzero forward voltage, finite resistance, and a small reverse leakage current. The constant-voltage model is often sufficient for hand analysis; include $r_d$ when the change in voltage with current matters.
 
 ## 5. Diode resistance
 
@@ -82,28 +82,28 @@ An ideal diode is a mathematical simplification. A practical diode has a nonzero
 
 At a particular operating point, the ratio of diode voltage to diode current is
 
-\[
+$$
 R_D = \frac{V_D}{I_D}.
-\]
+$$
 
 This is the slope of a line from the origin to the operating point on the V-I graph.
 
 ### AC (dynamic or small-signal) resistance
 
-For a small change around a forward-biased operating point \(Q\), the dynamic resistance is the local slope:
+For a small change around a forward-biased operating point $Q$, the dynamic resistance is the local slope:
 
-\[
+$$
 r_d = \left.\frac{dV_D}{dI_D}\right|_Q
-\approx \frac{\eta V_T}{I_D}.
-\]
+\approx \frac{\eta V_T}{I_D}
+$$
 
-Use amperes for \(I_D\). For example, at room temperature with \(\eta=1\) and \(I_D=2\ \text{mA}\):
+Use amperes for $I_D$. For example, at room temperature with $\eta=1$ and $I_D=2\ \text{mA}$:
 
-\[
-r_d \approx \frac{25.9\ \text{mV}}{2\ \text{mA}} \approx 13\ \Omega.
-\]
+$$
+r_d \approx \frac{25.9\ \text{mV}}{2\ \text{mA}} \approx 13\ \Omega
+$$
 
-This is a small-signal approximation, not the DC ratio \(V_D/I_D\). In general, forward dynamic resistance decreases as the bias current increases.
+This is a small-signal approximation, not the DC ratio $V_D/I_D$. In general, forward dynamic resistance decreases as the bias current increases.
 
 ## 6. Junction capacitances
 
@@ -113,21 +113,21 @@ A diode's capacitance is important when signals change quickly or when a circuit
 
 Transition capacitance is most significant under reverse bias. The depletion region acts approximately like the insulating spacing between the charges on a capacitor's plates. For a simple parallel-plate picture:
 
-\[
-C_T \approx \frac{\epsilon A}{W},
-\]
+$$
+C_T \approx \frac{\epsilon A}{W}
+$$
 
-where \(\epsilon\) is the semiconductor permittivity, \(A\) is junction area, and \(W\) is depletion width. Increasing reverse bias generally widens \(W\), so \(C_T\) decreases.
+where $\epsilon$ is the semiconductor permittivity, $A$ is junction area, and $W$ is depletion width. Increasing reverse bias generally widens $W$, so $C_T$ decreases.
 
 ### Diffusion capacitance
 
 Diffusion capacitance is most significant under forward bias. It results from stored injected minority-carrier charge in the regions next to the junction. In a simple charge-control model:
 
-\[
-C_D = \frac{dQ}{dV_D},
-\]
+$$
+C_D = \frac{dQ}{dV_D}
+$$
 
-where \(Q\) is the stored charge. It generally increases with forward current and can affect switching speed.
+where $Q$ is the stored charge. It generally increases with forward current and can affect switching speed.
 
 ## 7. Diode equivalent circuits
 
@@ -141,11 +141,11 @@ For any model, first make a reasonable ON/OFF assumption, analyze the circuit, a
 
 ### Short example: series resistor and silicon diode
 
-A 5 V source drives a silicon diode and a 1 kΩ resistor in series. Using the constant-drop model \(V_\gamma=0.7\) V, with the diode forward biased:
+A 5 V source drives a silicon diode and a 1 kΩ resistor in series. Using the constant-drop model $V_\gamma=0.7$ V, with the diode forward biased:
 
-\[
-I_D \approx \frac{5-0.7}{1\,000}=4.3\ \text{mA}.
-\]
+$$
+I_D \approx \frac{5-0.7}{1\,000}=4.3\ \text{mA}
+$$
 
 The resistor limits the current; the diode alone does not set a safe current.
 
@@ -174,12 +174,12 @@ The terms describe dominant mechanisms; both can contribute near a device's brea
 
 | Quantity | Relation or key idea |
 |---|---|
-| Thermal voltage | \(V_T=kT/q\), approximately 25.9 mV at room temperature |
-| Diode equation | \(I_D=I_S(e^{V_D/(\eta V_T)}-1)\) |
-| DC resistance | \(R_D=V_D/I_D\) at the operating point |
-| Small-signal resistance | \(r_d\approx\eta V_T/I_D\) for forward bias |
-| Transition capacitance | \(C_T\approx\epsilon A/W\); usually decreases as reverse bias increases |
-| Diffusion capacitance | \(C_D=dQ/dV_D\); associated with stored injected charge in forward bias |
+| Thermal voltage | $V_T=kT/q$, approximately 25.9 mV at room temperature |
+| Diode equation | $I_D=I_S(e^{V_D/(\eta V_T)}-1)$ |
+| DC resistance | $R_D=V_D/I_D$ at the operating point |
+| Small-signal resistance | $r_d\approx\eta V_T/I_D$ for forward bias |
+| Transition capacitance | $C_T\approx\epsilon A/W$; usually decreases as reverse bias increases |
+| Diffusion capacitance | $C_D=dQ/dV_D$; associated with stored injected charge in forward bias |
 
 ## 10. Self-test questions
 
@@ -189,20 +189,20 @@ The terms describe dominant mechanisms; both can contribute near a device's brea
 4. Describe what happens to the depletion width in forward and reverse bias.
 5. Sketch and label the forward, reverse-leakage, and breakdown regions of a diode V-I characteristic.
 6. Compare the ideal, constant-voltage, and piecewise-linear diode models.
-7. A diode has \(V_D=0.68\) V and \(I_D=10\) mA. Find its DC resistance.
-8. Estimate \(r_d\) at room temperature for \(I_D=5\) mA and \(\eta=1\).
+7. A diode has $V_D=0.68$ V and $I_D=10$ mA. Find its DC resistance.
+8. Estimate $r_d$ at room temperature for $I_D=5$ mA and $\eta=1$.
 9. Why is transition capacitance most significant in reverse bias?
 10. Explain the difference between Zener and avalanche breakdown.
 
 ### Answers to calculation checks
 
-- **Question 7:** \(R_D=0.68/0.010=68\ \Omega\).
-- **Question 8:** \(r_d\approx25.9\ \text{mV}/5\ \text{mA}\approx5.18\ \Omega\).
+- **Question 7:** $R_D=0.68/0.010=68\ \Omega$.
+- **Question 8:** $r_d\approx25.9\ \text{mV}/5\ \text{mA}\approx5.18\ \Omega$.
 
 ## Study tips
 
-- Practice drawing the diode symbol and labeling anode, cathode, \(V_D\), and \(I_D\).
+- Practice drawing the diode symbol and labeling anode, cathode, $V_D$, and $I_D$.
 - On V-I graphs, label the forward knee, reverse leakage, and breakdown voltage/current direction.
-- Keep static resistance \(V_D/I_D\) separate from small-signal resistance \(\eta V_T/I_D\).
+- Keep static resistance $V_D/I_D$ separate from small-signal resistance $\eta V_T/I_D$.
 - For each diode circuit problem, state the chosen model and verify the assumed ON/OFF state.
 - Remember that approximate silicon and germanium forward drops are model values, not universal constants.
