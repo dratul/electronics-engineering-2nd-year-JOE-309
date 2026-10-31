@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="470" viewBox="0 0 760 470" role="img" aria-labelledby="title description">
+  <title id="title">Schematic V-I characteristic of a PN junction diode</title>
+  <desc id="description">Current versus diode voltage showing rapid forward conduction after the knee voltage and a sharp negative current increase at reverse breakdown. The plot is schematic and not to scale.</desc>
+  <rect width="760" height="470" fill="white"/>
+  <text x="380" y="34" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="bold" fill="#222">PN Junction Diode V-I Characteristic</text>
+
+  <g stroke="#d8dee8" stroke-width="1">
+    <line x1="120" y1="100" x2="700" y2="100"/>
+    <line x1="120" y1="170" x2="700" y2="170"/>
+    <line x1="120" y1="310" x2="700" y2="310"/>
+    <line x1="260" y1="70" x2="260" y2="380"/>
+    <line x1="420" y1="70" x2="420" y2="380"/>
+    <line x1="580" y1="70" x2="580" y2="380"/>
+  </g>
+
+  <g stroke="#222" stroke-width="2.5" fill="none">
+    <line x1="120" y1="225" x2="710" y2="225"/>
+    <line x1="420" y1="395" x2="420" y2="65"/>
+    <path d="M700 219 L710 225 L700 231"/>
+    <path d="M414 75 L420 65 L426 75"/>
+  </g>
+
+  <g stroke="#667085" stroke-width="1.5" stroke-dasharray="6 5">
+    <line x1="516" y1="225" x2="516" y2="153"/>
+    <line x1="264" y1="225" x2="264" y2="315"/>
+  </g>
+
+  <path d="M359 226 C330 226 294 227 276 230 C250 234 235 259 220 302 C207 336 190 360 145 372"
+        fill="none" stroke="#c0392b" stroke-width="4" stroke-linecap="round"/>
+  <path d="M420 225 C455 225 480 224 497 219 C508 215 512 190 516 153 C520 116 526 91 543 78 C565 62 614 57 675 56"
+        fill="none" stroke="#1769aa" stroke-width="4" stroke-linecap="round"/>
+
+  <g font-family="Arial, sans-serif" fill="#222">
+    <text x="706" y="250" font-size="17">V<tspan baseline-shift="sub" font-size="12">D</tspan></text>
+    <text x="435" y="77" font-size="17">I<tspan baseline-shift="sub" font-size="12">D</tspan></text>
+    <text x="399" y="247" font-size="13">0</text>
+    <text x="516" y="247" text-anchor="middle" font-size="13">V<tspan baseline-shift="sub" font-size="10">γ</tspan></text>
+    <text x="264" y="247" text-anchor="middle" font-size="13">-V_BR</text>
+    <text x="535" y="144" font-size="14" fill="#1769aa">Forward conduction</text>
+    <text x="535" y="165" font-size="13" fill="#1769aa">(rapid rise after knee)</text>
+    <text x="135" y="281" font-size="14" fill="#c0392b">Reverse breakdown</text>
+    <text x="135" y="246" font-size="14" fill="#555">Small reverse leakage</text>
+    <text x="290" y="344" font-size="13" fill="#555" transform="rotate(-90 290 344)">Reverse current</text>
+    <text x="575" y="320" font-size="13" fill="#555">Forward voltage</text>
+    <text x="380" y="432" text-anchor="middle" font-size="14" fill="#555">Schematic only — curve and voltage scales are not to scale</text>
+  </g>
+</svg>

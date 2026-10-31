@@ -56,6 +56,12 @@ Connect the P side to the more negative supply terminal and the N side to the mo
 - **Reverse leakage region:** A small reverse current flows before breakdown.
 - **Breakdown region:** Reverse current rises sharply. A conventional diode may be damaged if the current is not limited. A suitably designed Zener diode can operate here within its ratings.
 
+### V-I characteristic graph
+
+![Schematic V-I characteristic of a PN junction diode](Unit-01-v-i-characteristic.svg)
+
+The graph is schematic and not to scale. Forward current rises rapidly after the knee voltage; reverse current remains small until the reverse breakdown voltage.
+
 The idealized diode current-voltage relation is the Shockley equation:
 
 $$
