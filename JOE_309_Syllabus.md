@@ -28,6 +28,48 @@ At the end of this course, students will demonstrate the ability to:
 
 ---
 
+## Video Lectures
+
+The links below are taken from the [BEC 101 / BEC 201 Learning Resources](https://docs.google.com/document/d/1RtcY2vmKSOJgMpbbOF4eW88gAfgN6zxu4g9YWIx2kTw/edit?tab=t.0) document and grouped by the JOE 309 syllabus topics. The source document uses different unit numbers, so links are matched by topic rather than its unit labels.
+
+### Unit I: Semiconductor Diode
+
+- [Fundamentals of Electronics overview (L101)](https://youtu.be/ZuBp3geGQsQ)
+- [Fundamentals and depletion layer (L102)](https://youtu.be/t7lANkeQkLE)
+- [Built-in potential in a PN junction (L103)](https://youtu.be/JxC59HgF5Ws)
+- [Size of depletion layer — Part 1 (L104)](https://www.youtube.com/live/Br0cOVJlk5A?feature=share)
+- [Size of depletion layer — Link 2 (L104)](https://youtu.be/8Psoa5YRUkA)
+- [Diode waveform problems (L110)](https://www.youtube.com/live/YuADkMWhxSA?feature=share)
+
+### Unit II: Diode Applications and Special-Purpose Devices
+
+- [Applications of diode (L111)](https://youtu.be/hGFY2N0af1M)
+
+The source document does not list matching video links for the remaining Unit II topics.
+
+### Unit III: BJT and FET
+
+The source document does not list matching BJT or FET video links.
+
+### Unit IV: Operational Amplifiers
+
+The source document labels these as Unit 03; they are grouped here under Unit IV to match the JOE 309 syllabus.
+
+- [Op-amp introduction (L301)](https://www.youtube.com/watch?v=vaFYwO2fC-0&list=PLKy7tXMLcgM1IpgenQigqyT-5Ix-r-9iO&index=37&t=133s)
+- [Voltage gain in an operational amplifier (L302)](https://www.youtube.com/watch?v=2o8URt1ru4Y&list=PLKy7tXMLcgM1IpgenQigqyT-5Ix-r-9iO&index=38&t=68s)
+- [Op-amp properties, gain, and CMRR (L303)](https://www.youtube.com/watch?v=SiazOOACVIA&list=PLKy7tXMLcgM1IpgenQigqyT-5Ix-r-9iO&index=39&t=806s)
+- [Practical op-amp applications (L304)](https://www.youtube.com/watch?v=KUGuayonrjc&list=PLKy7tXMLcgM1IpgenQigqyT-5Ix-r-9iO&index=40&t=751s)
+
+### Unit V: Electronic Instrumentation and Measurements
+
+The source document does not list matching DVM, DMM, CRO, or DSO video links.
+
+### Complete video playlist
+
+- [All video lectures in the source document](https://www.youtube.com/playlist?list=PLKy7tXMLcgM1IpgenQigqyT-5Ix-r-9iO)
+
+---
+
 ## Text / Reference Books
 
 1. **Robert L. Boylestad / Louis Nashelsky**, *"Electronic Devices and Circuit Theory"*, Latest Edition, Pearson Education.
