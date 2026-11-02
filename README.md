@@ -25,9 +25,6 @@ At the end of this course, students will demonstrate the ability to:
 | [**Unit V: Electronic Instrumentation and Measurements**](Unit-05.md) | **Electronic Instrumentation and Measurements:**<br>- **Digital Voltmeter:** Introduction, RAMP techniques.<br>- **Digital Multimeters:** Introduction.<br>- **Oscilloscope:** Introduction, basic principle, CRT, block diagram of oscilloscope, simple measurement of voltage, current, phase, and frequency using CRO.<br>- **DSO:** Introduction of digital storage oscilloscope and comparison of DSO with analog oscilloscope. | 8 |
 
 ## Video lectures and notes
-
-The links below are taken from the [BEC 101 / BEC 201 Learning Resources](https://docs.google.com/document/d/1RtcY2vmKSOJgMpbbOF4eW88gAfgN6zxu4g9YWIx2kTw/edit?tab=t.0) document and grouped by the JOE 309 syllabus topics. The source document uses different unit numbers, so links are matched by topic rather than its unit labels.
-
 ### Unit I: Semiconductor Diode
 
 - [Fundamentals of Electronics overview](https://youtu.be/ZuBp3geGQsQ)
@@ -41,16 +38,13 @@ The links below are taken from the [BEC 101 / BEC 201 Learning Resources](https:
 
 - [Applications of diode (L111)](https://youtu.be/hGFY2N0af1M)
 
-The source document does not list matching video links for the remaining Unit II topics.
+
 
 ### Unit III: BJT and FET
 
-The source document does not list matching BJT or FET video links.
+
 
 ### Unit IV: Operational Amplifiers
-
-The source document labels these as Unit 03; they are grouped here under Unit IV to match the JOE 309 syllabus.
-
 - [Op-amp introduction (L301)](https://www.youtube.com/watch?v=vaFYwO2fC-0&list=PLKy7tXMLcgM1IpgenQigqyT-5Ix-r-9iO&index=37&t=133s)
 - [Voltage gain in an operational amplifier (L302)](https://www.youtube.com/watch?v=2o8URt1ru4Y&list=PLKy7tXMLcgM1IpgenQigqyT-5Ix-r-9iO&index=38&t=68s)
 - [Op-amp properties, gain, and CMRR (L303)](https://www.youtube.com/watch?v=SiazOOACVIA&list=PLKy7tXMLcgM1IpgenQigqyT-5Ix-r-9iO&index=39&t=806s)
@@ -58,7 +52,7 @@ The source document labels these as Unit 03; they are grouped here under Unit IV
 
 ### Unit V: Electronic Instrumentation and Measurements
 
-The source document does not list matching DVM, DMM, CRO, or DSO video links.
+ DVM, DMM, CRO, or DSO video links.
 
 ### Complete video playlist
 
