@@ -31,4 +31,4 @@ This is a small-signal approximation, not the DC ratio $V_D/I_D$. In general, fo
 
 - **Next topic:** [Junction capacitances](06-junction-capacitances.md)
 - **Related topics:** [Biasing and V-I characteristics](03-biasing-and-vi-characteristics.md), [Ideal and practical diode models](04-ideal-and-practical-diode-models.md), [Junction capacitances](06-junction-capacitances.md), [Worked examples](09-worked-examples.md)
-- [Back to Unit I index](../Unit-01.md)
+- [Back to Unit I index](readme.md)

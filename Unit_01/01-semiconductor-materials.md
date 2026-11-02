@@ -15,4 +15,4 @@ Doping does not give the material a net charge. It increases the concentration o
 
 - **Next topic:** [PN junction and depletion region](02-pn-junction-and-depletion-region.md)
 - **Related topics:** [Biasing and V-I characteristics](03-biasing-and-vi-characteristics.md), [Zener and avalanche breakdown](08-zener-and-avalanche-breakdown.md)
-- [Back to Unit I index](../Unit-01.md)
+- [Back to Unit I index](readme.md)

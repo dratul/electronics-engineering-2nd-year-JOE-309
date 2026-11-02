@@ -14,4 +14,4 @@ An ideal diode is a mathematical simplification. A practical diode has a nonzero
 
 - **Next topic:** [Diode resistance](05-diode-resistance.md)
 - **Related topics:** [Biasing and V-I characteristics](03-biasing-and-vi-characteristics.md), [Diode resistance](05-diode-resistance.md), [Diode equivalent circuits](07-diode-equivalent-circuits.md), [Worked examples](09-worked-examples.md)
-- [Back to Unit I index](../Unit-01.md)
+- [Back to Unit I index](readme.md)

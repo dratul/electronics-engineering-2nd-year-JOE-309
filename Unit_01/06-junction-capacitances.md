@@ -26,4 +26,4 @@ where $Q$ is the stored charge. It generally increases with forward current and 
 
 - **Next topic:** [Diode equivalent circuits](07-diode-equivalent-circuits.md)
 - **Related topics:** [PN junction and depletion region](02-pn-junction-and-depletion-region.md), [Biasing and V-I characteristics](03-biasing-and-vi-characteristics.md), [Diode resistance](05-diode-resistance.md), [Worked examples](09-worked-examples.md)
-- [Back to Unit I index](../Unit-01.md)
+- [Back to Unit I index](readme.md)

@@ -13,4 +13,4 @@ This carrier-depleted area is called the **depletion region** or **depletion lay
 
 - **Next topic:** [Biasing and V-I characteristics](03-biasing-and-vi-characteristics.md)
 - **Related topics:** [Semiconductor materials](01-semiconductor-materials.md), [Biasing and V-I characteristics](03-biasing-and-vi-characteristics.md), [Junction capacitances](06-junction-capacitances.md)
-- [Back to Unit I index](../Unit-01.md)
+- [Back to Unit I index](readme.md)

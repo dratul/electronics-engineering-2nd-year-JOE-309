@@ -18,7 +18,7 @@ Connect the P side to the more negative supply terminal and the N side to the mo
 
 ## V-I characteristic graph
 
-![Schematic V-I characteristic of a PN junction diode](../Unit-01-v-i-characteristic.svg)
+![Schematic V-I characteristic of a PN junction diode](images/vi_chararecteristics.svg)
 
 The graph is schematic and not to scale. Forward current rises rapidly after the knee voltage; reverse current remains small until the reverse breakdown voltage.
 
@@ -34,4 +34,4 @@ where $I_S$ is the reverse saturation current, $\eta$ is the ideality factor (ty
 
 - **Next topic:** [Ideal and practical diode models](04-ideal-and-practical-diode-models.md)
 - **Related topics:** [PN junction and depletion region](02-pn-junction-and-depletion-region.md), [Ideal and practical diode models](04-ideal-and-practical-diode-models.md), [Diode resistance](05-diode-resistance.md), [Zener and avalanche breakdown](08-zener-and-avalanche-breakdown.md), [Worked examples](09-worked-examples.md)
-- [Back to Unit I index](../Unit-01.md)
+- [Back to Unit I index](readme.md)

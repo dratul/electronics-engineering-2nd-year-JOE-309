@@ -141,6 +141,6 @@ Choose a Zener with a power rating comfortably above $81\ \text{mW}$ and a resis
 
 ## Navigation
 
-- **Next topic:** [Back to Unit I index](../Unit-01.md)
+- **Next topic:** [Back to Unit I index](readme.md)
 - **Related topics:** [Biasing and V-I characteristics](03-biasing-and-vi-characteristics.md), [Diode resistance](05-diode-resistance.md), [Junction capacitances](06-junction-capacitances.md), [Zener and avalanche breakdown](08-zener-and-avalanche-breakdown.md)
-- [Back to Unit I index](../Unit-01.md)
+- [Back to Unit I index](readme.md)

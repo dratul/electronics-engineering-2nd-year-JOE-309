@@ -22,4 +22,4 @@ The resistor limits the current; the diode alone does not set a safe current.
 
 - **Next topic:** [Zener and avalanche breakdown](08-zener-and-avalanche-breakdown.md)
 - **Related topics:** [Ideal and practical diode models](04-ideal-and-practical-diode-models.md), [Diode resistance](05-diode-resistance.md), [Zener and avalanche breakdown](08-zener-and-avalanche-breakdown.md), [Worked examples](09-worked-examples.md)
-- [Back to Unit I index](../Unit-01.md)
+- [Back to Unit I index](readme.md)
