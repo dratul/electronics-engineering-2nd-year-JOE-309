@@ -24,9 +24,9 @@ At the end of this course, students will demonstrate the ability to:
 | [**Unit IV: Operational Amplifiers**](Unit-04.md) | **Operational Amplifiers (Op-Amp):** Introduction and block diagram of Op-Amp, ideal & practical characteristics of Op-Amp, differential amplifier circuits, practical Op-Amp circuits (inverting amplifier, non-inverting amplifier, unity gain amplifier, summing amplifier, integrator, differentiator).<br>**Op-Amp Parameters:** Input offset voltage, output offset voltage, input bias current, input offset current, differential and common-mode operation. | 8 |
 | [**Unit V: Electronic Instrumentation and Measurements**](Unit-05.md) | **Electronic Instrumentation and Measurements:**<br>- **Digital Voltmeter:** Introduction, RAMP techniques.<br>- **Digital Multimeters:** Introduction.<br>- **Oscilloscope:** Introduction, basic principle, CRT, block diagram of oscilloscope, simple measurement of voltage, current, phase, and frequency using CRO.<br>- **DSO:** Introduction of digital storage oscilloscope and comparison of DSO with analog oscilloscope. | 8 |
 
-## Techzion videos mapped to the syllabus
+## Techzion 
 
-The links below are from the [Techzion YouTube channel](https://www.youtube.com/@Techzion/videos). Videos are grouped by the JOE 309 syllabus topic they appear to cover; this is a partial match, not a complete course playlist. Some video titles refer to AKTU BEC/EDC course codes, so they are mapped by subject rather than unit number.
+The links below are from the [Techzion YouTube channel](https://www.youtube.com/@Techzion/videos). Videos are grouped by the JOE 309 syllabus topic they appear to cover; this is a partial match, not a complete course playlist. Some video titles refer to AKTU BEC/EDC course code.
 
 ### Unit I: Semiconductor Diode
 
