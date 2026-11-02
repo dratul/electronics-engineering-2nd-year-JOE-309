@@ -26,7 +26,7 @@ At the end of this course, students will demonstrate the ability to:
 
 ## Techzion 
 
-The links below are from the [Techzion YouTube channel](https://www.youtube.com/@Techzion/videos). Videos are grouped by the JOE 309 syllabus topic they appear to cover; this is a partial match, not a complete course playlist. Some video titles refer to AKTU BEC/EDC course code.
+The links below are from the [Techzion YouTube channel](https://www.youtube.com/@Techzion/videos).  video titles refer to AKTU BEC/EDC course code.
 
 ### Unit I: Semiconductor Diode
 
@@ -42,7 +42,7 @@ The links below are from the [Techzion YouTube channel](https://www.youtube.com/
 - **Zener and avalanche breakdown**
   - [Comparison of avalanche breakdown and Zener diodes](https://youtu.be/u0PWXQuyGYE)
 
-No matching Techzion videos were found for diode resistance or transition/diffusion capacitance.
+  -videos were not found for diode resistance or transition/diffusion capacitance.
 
 ### Unit II: Diode Applications and Special-Purpose Devices
 
