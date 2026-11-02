@@ -30,12 +30,12 @@ The links below are taken from the [BEC 101 / BEC 201 Learning Resources](https:
 
 ### Unit I: Semiconductor Diode
 
-- [Fundamentals of Electronics overview (L101)](https://youtu.be/ZuBp3geGQsQ)
-- [Fundamentals and depletion layer (L102)](https://youtu.be/t7lANkeQkLE)
-- [Built-in potential in a PN junction (L103)](https://youtu.be/JxC59HgF5Ws)
-- [Size of depletion layer — Part 1 (L104)](https://www.youtube.com/live/Br0cOVJlk5A?feature=share)
-- [Size of depletion layer — Link 2 (L104)](https://youtu.be/8Psoa5YRUkA)
-- [Diode waveform problems (L110)](https://www.youtube.com/live/YuADkMWhxSA?feature=share)
+- [Fundamentals of Electronics overview](https://youtu.be/ZuBp3geGQsQ)
+- [Fundamentals and depletion layer](https://youtu.be/t7lANkeQkLE)
+- [Built-in potential in a PN junction](https://youtu.be/JxC59HgF5Ws)
+- [Size of depletion layer — Part 1](https://www.youtube.com/live/Br0cOVJlk5A?feature=share)
+- [Size of depletion layer — Link 2](https://youtu.be/8Psoa5YRUkA)
+- [Diode waveform problems ](https://www.youtube.com/live/YuADkMWhxSA?feature=share)
 
 ### Unit II: Diode Applications and Special-Purpose Devices
 
