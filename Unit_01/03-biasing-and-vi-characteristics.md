@@ -1,5 +1,7 @@
 # 3. Biasing and V-I characteristics
 
+**Author:** Dr. Atul Kumar Dwivedi
+
 Let $V_D$ be the voltage from the diode anode (P side) to cathode (N side), and let $I_D$ be positive in the forward direction.
 
 ## Forward bias

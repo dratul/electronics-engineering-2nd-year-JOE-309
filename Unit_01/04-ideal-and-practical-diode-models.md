@@ -1,5 +1,7 @@
 # 4. Ideal and practical diode models
 
+**Author:** Dr. Atul Kumar Dwivedi
+
 The model chosen depends on the accuracy needed for the circuit analysis.
 
 | Model | Forward-biased approximation | Reverse-biased approximation |

@@ -1,5 +1,7 @@
 # 8. Zener and avalanche breakdown
 
+**Author:** Dr. Atul Kumar Dwivedi
+
 Both mechanisms cause a large increase in reverse current. The reverse current must be limited by the surrounding circuit.
 
 ## Zener breakdown

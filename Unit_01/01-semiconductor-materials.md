@@ -1,5 +1,7 @@
 # 1. Semiconductor materials
 
+**Author:** Dr. Atul Kumar Dwivedi
+
 A semiconductor has electrical conductivity between that of a conductor and an insulator. Silicon and germanium are common semiconductor materials. Their conductivity depends on temperature, illumination, and the concentration of intentionally added impurities.
 
 ## Intrinsic and extrinsic materials

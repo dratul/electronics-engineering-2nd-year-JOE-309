@@ -1,5 +1,7 @@
 # 9. Worked examples and review
 
+**Author:** Dr. Atul Kumar Dwivedi
+
 ## Example 1: Diode current from the Shockley equation
 
 At room temperature, estimate the current for a diode with $I_S=2\ \text{nA}$, $\eta=2$, and $V_D=0.60\ \text{V}$. Ignore series resistance.

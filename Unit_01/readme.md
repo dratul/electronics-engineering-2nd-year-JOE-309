@@ -1,5 +1,7 @@
 # Unit 01: Semiconductor Diode
 
+**Author:** Dr. Atul Kumar Dwivedi
+
 This guide covers the Unit I syllabus: semiconductor materials, PN junction formation and depletion layer, diode biasing and V-I characteristics, diode models, resistance and capacitance, and Zener and avalanche breakdown.
 
 ## Learning objectives

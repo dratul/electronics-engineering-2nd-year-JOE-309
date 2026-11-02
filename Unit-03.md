@@ -1,5 +1,7 @@
 # Unit 03: Bipolar Junction Transistors and Field-Effect Transistors
 
+**Author:** Dr. Atul Kumar Dwivedi
+
 This guide covers BJT construction and operation, CB/CE/CC configurations, DC bias and stabilization, amplifier action and small-signal analysis, JFET characteristics and CS amplifiers, and depletion- and enhancement-mode MOSFETs.
 
 ## Learning objectives

@@ -1,5 +1,7 @@
 # 7. Diode equivalent circuits
 
+**Author:** Dr. Atul Kumar Dwivedi
+
 An equivalent circuit replaces the diode with a simpler model to make circuit calculations manageable.
 
 1. **Ideal model:** Treat an ON diode as a short and an OFF diode as an open.

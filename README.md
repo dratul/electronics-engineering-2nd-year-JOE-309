@@ -1,5 +1,7 @@
 # Electronics Engineering — JOE 309
 
+**Author:** Dr. Atul Kumar Dwivedi
+
 Study materials and syllabus for second-year Electronics Engineering students.
 
 **Course codes:** JOE309 / JOE409 / JOE309H / JOE409H

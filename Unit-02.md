@@ -1,5 +1,7 @@
 # Unit 02: Diode Applications and Special-Purpose Devices
 
+**Author:** Dr. Atul Kumar Dwivedi
+
 This guide covers diode series/parallel circuits, rectifiers, clippers, clampers, Zener shunt regulators, voltage multipliers, LEDs, varactor diodes, tunnel diodes, and LCDs. Unless stated otherwise, numerical examples use the constant-voltage model and ideal components.
 
 ## Learning objectives

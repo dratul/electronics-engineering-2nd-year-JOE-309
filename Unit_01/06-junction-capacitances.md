@@ -1,5 +1,7 @@
 # 6. Junction capacitances
 
+**Author:** Dr. Atul Kumar Dwivedi
+
 A diode's capacitance is important when signals change quickly or when a circuit operates at high frequency.
 
 ## Transition (depletion) capacitance

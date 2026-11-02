@@ -1,5 +1,7 @@
 # 5. Diode resistance
 
+**Author:** Dr. Atul Kumar Dwivedi
+
 ## DC (static) resistance
 
 At a particular operating point, the ratio of diode voltage to diode current is

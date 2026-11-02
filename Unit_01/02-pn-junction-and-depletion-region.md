@@ -1,5 +1,7 @@
 # 2. PN junction and depletion region
 
+**Author:** Dr. Atul Kumar Dwivedi
+
 A PN junction is the boundary between P-type and N-type regions in a single semiconductor crystal. When the junction is formed:
 
 1. Electrons diffuse from the N side toward the P side, while holes diffuse from the P side toward the N side.

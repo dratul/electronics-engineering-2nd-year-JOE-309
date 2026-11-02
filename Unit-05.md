@@ -1,5 +1,7 @@
 # Unit 05: Electronic Instrumentation and Measurements
 
+**Author:** Dr. Atul Kumar Dwivedi
+
 This guide covers digital voltmeters and ramp conversion, digital multimeters, analog CRO/oscilloscope fundamentals and measurements, and digital storage oscilloscopes (DSOs).
 
 ## Learning objectives

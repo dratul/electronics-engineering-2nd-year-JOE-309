@@ -1,5 +1,7 @@
 # Unit 04: Operational Amplifiers
 
+**Author:** Dr. Atul Kumar Dwivedi
+
 This guide covers op-amp fundamentals and practical limitations, differential and common-mode signals, inverting and non-inverting amplifiers, voltage follower, summing amplifier, integrator, differentiator, and input/output offset and bias-current parameters.
 
 ## Learning objectives

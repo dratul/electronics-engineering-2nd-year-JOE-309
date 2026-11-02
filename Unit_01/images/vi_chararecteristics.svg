@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="470" viewBox="0 0 760 470" role="img" aria-labelledby="title description">
+  <metadata>Author: Dr. Atul Kumar Dwivedi</metadata>
   <title id="title">Schematic V-I characteristic of a PN junction diode</title>
   <desc id="description">Current versus diode voltage showing rapid forward conduction after the knee voltage and a sharp negative current increase at reverse breakdown. The plot is schematic and not to scale.</desc>
   <rect width="760" height="470" fill="white"/>
