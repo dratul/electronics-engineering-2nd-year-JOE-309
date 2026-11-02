@@ -24,39 +24,59 @@ At the end of this course, students will demonstrate the ability to:
 | [**Unit IV: Operational Amplifiers**](Unit-04.md) | **Operational Amplifiers (Op-Amp):** Introduction and block diagram of Op-Amp, ideal & practical characteristics of Op-Amp, differential amplifier circuits, practical Op-Amp circuits (inverting amplifier, non-inverting amplifier, unity gain amplifier, summing amplifier, integrator, differentiator).<br>**Op-Amp Parameters:** Input offset voltage, output offset voltage, input bias current, input offset current, differential and common-mode operation. | 8 |
 | [**Unit V: Electronic Instrumentation and Measurements**](Unit-05.md) | **Electronic Instrumentation and Measurements:**<br>- **Digital Voltmeter:** Introduction, RAMP techniques.<br>- **Digital Multimeters:** Introduction.<br>- **Oscilloscope:** Introduction, basic principle, CRT, block diagram of oscilloscope, simple measurement of voltage, current, phase, and frequency using CRO.<br>- **DSO:** Introduction of digital storage oscilloscope and comparison of DSO with analog oscilloscope. | 8 |
 
-## Video lectures and notes
+## Techzion videos mapped to the syllabus
+
+The links below are from the [Techzion YouTube channel](https://www.youtube.com/@Techzion/videos). Videos are grouped by the JOE 309 syllabus topic they appear to cover; this is a partial match, not a complete course playlist. Some video titles refer to AKTU BEC/EDC course codes, so they are mapped by subject rather than unit number.
+
 ### Unit I: Semiconductor Diode
 
-- [Fundamentals of Electronics overview](https://youtu.be/ZuBp3geGQsQ)
-- [Fundamentals and depletion layer](https://youtu.be/t7lANkeQkLE)
-- [Built-in potential in a PN junction](https://youtu.be/JxC59HgF5Ws)
-- [Size of depletion layer — Part 1](https://www.youtube.com/live/Br0cOVJlk5A?feature=share)
-- [Size of depletion layer — Link 2](https://youtu.be/8Psoa5YRUkA)
-- [Diode waveform problems ](https://www.youtube.com/live/YuADkMWhxSA?feature=share)
+- **PN junction and depletion layer**
+  - [Depletion layer](https://youtu.be/t7lANkeQkLE)
+  - [Built-in potential derivation](https://youtu.be/JxC59HgF5Ws)
+  - [Numerical problems on depletion layer](https://youtu.be/MykGmCzZVb8)
+- **V-I characteristics and diode models**
+  - [V-I characteristics and forward/reverse bias](https://youtu.be/fkEUNnC5cCM)
+  - [Ideal and practical diodes](https://youtu.be/OGOD-jcqh9w)
+  - [Diode equivalent model numerical problems](https://youtu.be/MAC-ft9fMEY)
+  - [Equivalent models of a diode](https://youtu.be/2uza4qkaXQk)
+- **Zener and avalanche breakdown**
+  - [Comparison of avalanche breakdown and Zener diodes](https://youtu.be/u0PWXQuyGYE)
+
+No matching Techzion videos were found for diode resistance or transition/diffusion capacitance.
 
 ### Unit II: Diode Applications and Special-Purpose Devices
 
-- [Applications of diode (L111)](https://youtu.be/hGFY2N0af1M)
+- **Rectifiers**
+  - [Half-wave rectifier applications](https://youtu.be/hGFY2N0af1M)
+  - [Half-wave rectifier properties](https://youtu.be/pxIAbjyalRY)
+  - [Half-wave rectifier properties — continued](https://youtu.be/s_d8S9jQCGI)
+  - [Numerical problem on a half-wave rectifier](https://youtu.be/lDUuq7HKWT0)
+  - [Full-wave rectifier](https://youtu.be/Dqd5dLJpVf0)
+- **Clippers, clampers, and Zener regulation**
+  - [Clipper circuits using a PN-junction diode](https://youtu.be/P3EabZ3py5Q)
+  - [Clamper and voltage-multiplier circuits](https://youtu.be/rjU5hzeml9c)
+  - [Zener diode as a shunt voltage regulator](https://youtu.be/QEYi40EVy8c)
 
-
+No matching Techzion videos were found for series/parallel diode configurations or the LED, varactor, tunnel-diode, and LCD topics.
 
 ### Unit III: BJT and FET
 
+- **BJT construction and configurations**
+  - [Transistor construction](https://youtu.be/HdpSFaNVV1Y)
+  - [BJT transistor configurations](https://youtu.be/fDMHNZumtCc)
+  - [BJT internal currents and common-base biasing](https://youtu.be/dP6tOH4XWMw)
 
+No matching Techzion videos were found for the syllabus's detailed BJT biasing, stabilization, amplifier analysis, or JFET/MOSFET topics.
 
 ### Unit IV: Operational Amplifiers
-- [Op-amp introduction (L301)](https://www.youtube.com/watch?v=vaFYwO2fC-0&list=PLKy7tXMLcgM1IpgenQigqyT-5Ix-r-9iO&index=37&t=133s)
-- [Voltage gain in an operational amplifier (L302)](https://www.youtube.com/watch?v=2o8URt1ru4Y&list=PLKy7tXMLcgM1IpgenQigqyT-5Ix-r-9iO&index=38&t=68s)
-- [Op-amp properties, gain, and CMRR (L303)](https://www.youtube.com/watch?v=SiazOOACVIA&list=PLKy7tXMLcgM1IpgenQigqyT-5Ix-r-9iO&index=39&t=806s)
-- [Practical op-amp applications (L304)](https://www.youtube.com/watch?v=KUGuayonrjc&list=PLKy7tXMLcgM1IpgenQigqyT-5Ix-r-9iO&index=40&t=751s)
+
+- [Operational-amplifier introduction](https://youtu.be/vaFYwO2fC-0)
+- [Op-amp properties, gain, and CMRR](https://youtu.be/SiazOOACVIA)
+- [Practical op-amp applications](https://youtu.be/KUGuayonrjc)
 
 ### Unit V: Electronic Instrumentation and Measurements
 
- DVM, DMM, CRO, or DSO video links.
-
-### Complete video playlist
-
-- [All video lectures in the source document](https://www.youtube.com/playlist?list=PLKy7tXMLcgM1IpgenQigqyT-5Ix-r-9iO)
+No matching Techzion videos were found for DVM, DMM, CRO, or DSO topics.
 
 ## Text and reference books
 
